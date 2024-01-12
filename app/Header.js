@@ -6,16 +6,16 @@ const Header = () => {
         <div className='row1'></div>
         <div className='row2'>
             <div className='col1'>
-                <img src="logo.png" alt="pic" height="72px" width="72px"/>
+                <img src="./logo.png" alt="pic" height="72px" width="72px"/>
             </div>
             <div className='col2'>
-                <img src="Movie-Hub.png" alt="pic" height="px" width="px"/>
+                <img src="./Movie-Hub.png" alt="pic" height="px" width="px"/>
             </div>
             <div className='col3'>
-                <img src="Watch.png" alt="pic" height="px" width="px"/>
+                <img src="./Watch.png" alt="pic" height="px" width="px"/>
             </div>
             <div className='col4'>
-                <img src="Add-Movie.png" alt="pic" height="px" width="px"/>
+                <img src="./Add-Movie.png" alt="pic" height="px" width="px"/>
             </div>
         </div>   
         <div className='row3'></div>
